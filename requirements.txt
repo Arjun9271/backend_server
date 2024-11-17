@@ -1,0 +1,6 @@
+Flask
+streamlit
+requests
+python-dotenv
+beautifulsoup4
+langchain-groq
